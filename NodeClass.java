@@ -1,4 +1,4 @@
-package SpawnList;
+package SortedListP;
 
 public class NodeClass<E> implements Node<E> {
 
