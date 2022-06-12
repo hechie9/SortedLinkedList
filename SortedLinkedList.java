@@ -1,4 +1,6 @@
-package SortedListP;
+/**
+ * @author Hechie#1558
+ */
 
 import java.util.*;
 
